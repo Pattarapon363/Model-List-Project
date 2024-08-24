@@ -1,0 +1,13 @@
+/* styles.css */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #007bff;
+}
